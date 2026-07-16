@@ -1,7 +1,5 @@
 <div align="center">
 
-![Header](https://capsule-render.com/api?type=waving&color=0:1a1a2e,50:6a4c93,100:9d4edd&height=220&section=header&text=Abdul%20Hannan&fontSize=48&fontColor=e0aaff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18)
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+IST;AI%2FGen+AI+Enthusiast;Python+%7C+Full+Stack+Developer;Building+Agentic+AI+Applications" alt="Typing SVG" />
 </a>
@@ -175,4 +173,3 @@ Freelance data analysis work, applying Python and Pandas to client data problems
 <i>"Building intelligent, data-driven applications — one commit at a time."</i>
 </div>
 
-![Footer](https://capsule-render.com/api?type=waving&color=0:1a1a2e,50:6a4c93,100:9d4edd&height=100&section=footer)
